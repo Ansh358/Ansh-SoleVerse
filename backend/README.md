@@ -55,7 +55,10 @@ npm run dev
 # Production mode
 npm start
 ```
-
+4. Inside the website:
+```
+   Firstly Signup and Login then only you can purchase any product
+```
 ## Development
 - Uses nodemon for automatic server restart during development
 - Environment variables for configuration
