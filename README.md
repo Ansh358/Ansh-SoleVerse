@@ -62,6 +62,15 @@ For backend only:
 ```bash
 npm run start:backend
 ```
+## Inside the website:
+- IMP
+- IMP
+- IMP
+- Firstly SignUp and Login then only you can purchase any product
+- Else error will be showing up
+- IMP
+- IMP
+- IMP
 
 ## Features
 
