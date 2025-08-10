@@ -1,8 +1,7 @@
 # SoleVerse - Sneaker E-commerce Platform
 
-**#Netlify - Link**
-
-amazing-centaur-cd0415.netlify.app
+# Netlify - Link  
+[SoleVerse.com](https://amazing-centaur-cd0415.netlify.app)
 
 ## Prerequisites
 
